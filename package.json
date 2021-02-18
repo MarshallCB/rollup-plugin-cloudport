@@ -50,7 +50,7 @@
     "typescript": "^4.1.2"
   },
   "dependencies": {
-    "skypin": "^2.0.7",
+    "skypin": "^2.0.10",
     "unpkg-pin": "0.0.1"
   }
 }
