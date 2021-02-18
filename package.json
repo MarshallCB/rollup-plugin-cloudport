@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "rollup-plugin-cloudport",
   "repository": "MarshallCB/rollup-plugin-cloudport",
   "description": "Rollup plugin to convert NPM imports into CDN URL's",
